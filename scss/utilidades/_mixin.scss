@@ -1,0 +1,35 @@
+@mixin encabezado1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    margin: 30px;
+}
+
+@mixin encabezado2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 30px;
+}
+
+@mixin encabezado6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 30px;
+    
+}
+
+@mixin parrafos {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 300px;
+
+}
+
